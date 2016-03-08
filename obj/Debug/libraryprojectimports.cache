@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\__library_projects__\SQLite.Net.Platform.XamarinAndroid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\__library_projects__\System.Data.Portable\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\__library_projects__\System.Transactions.Portable\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\__library_projects__\SQLite.Net.Platform.XamarinAndroid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\__library_projects__\System.Data.Portable\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\__library_projects__\System.Transactions.Portable\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\__library_projects__\SQLite.Net.Platform.XamarinAndroid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\__library_projects__\System.Data.Portable.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\__library_projects__\System.Transactions.Portable.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

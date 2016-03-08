@@ -1,0 +1,127 @@
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\bin\Debug\XamarinCookbook.dll
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\bin\Debug\XamarinCookbook.pdb
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\bin\Debug\com.xamarincookbook.chapter1.recipe8.apk
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\bin\Debug\com.xamarincookbook.chapter1.recipe8-Signed.apk
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\obj\Debug\XamarinCookbook.csprojResolveAssemblyReference.cache
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\obj\Debug\res\drawable\monoandroidsplash.png
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\obj\Debug\res\values\styles.xml
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\obj\Debug\XamarinCookbook.dll
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\obj\Debug\XamarinCookbook.pdb
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\obj\Debug\android\bin\com.xamarincookbook.chapter1.recipe8.apk
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\obj\Debug\res\drawable\icon.png
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\obj\Debug\res\menu\main_options.xml
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\obj\Debug\res\drawable-hdpi\ic_action_refresh.png
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\obj\Debug\res\drawable-mdpi\ic_action_refresh.png
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\obj\Debug\res\drawable-xhdpi\ic_action_refresh.png
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\obj\Debug\res\values\strings.xml
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\obj\Debug\res\layout\main.xml
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\obj\Debug\R.cs.flag
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\obj\Debug\uploadflags.txt
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\bin\Debug\XamarinCodeSharing.Core.dll
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\bin\Debug\XamarinCodeSharing.Core.pdb
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\obj\Debug\res\layout\feedlistactivity.xml
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\bin\Debug\XamarinCodeSharing.Core.dll.mdb
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\obj\Debug\XamarinCookbook.dll.mdb
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\bin\Debug\XamarinCookbook.dll.mdb
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\XamarinCookbook.csprojResolveAssemblyReference.cache
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\monoandroidsplash.png
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\values\styles.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\bin\Debug\XamarinCookbook.dll
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\bin\Debug\XamarinCookbook.pdb
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\bin\Debug\com.xamarincookbook.chapter1.recipe8.apk
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\bin\Debug\com.xamarincookbook.chapter1.recipe8-Signed.apk
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\bin\Debug\SQLite.Net.dll
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\bin\Debug\System.Data.Portable.dll
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\bin\Debug\System.Transactions.Portable.dll
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\bin\Debug\XamarinCodeSharing.Core.dll
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\bin\Debug\XamarinCodeSharing.Core.pdb
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\XamarinCookbook.dll
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\XamarinCookbook.pdb
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\android\bin\com.xamarincookbook.chapter1.recipe8.apk
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\feedlistactivity.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\contentfragment.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\jpmainfragment.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout-port\jpmainfragment.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\preferencelayout.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\jpmanagefile.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\listviewlayout.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\listviewlayoutex1.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\listviewsimpleadapterlayout.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\customlistviewitemlayout.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\listitemlayout.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\listviewbaseadapterlayout.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\listviewcursoradapterlayout.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\listviewsearchlayout.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\searchlayout.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\comunicationlayout.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\recycleviewerlayout.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\photocardview.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\icon.png
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\menu\main_options.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable-hdpi\ic_action_refresh.png
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable-mdpi\ic_action_refresh.png
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable-xhdpi\ic_action_refresh.png
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\values\strings.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\main.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\menu\contentfragment.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\menu\mainactivity.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\menu\menufragment.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\raw\myraw.txt
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\values\mystrings.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\male.png
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\female.png
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\listitembackground.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\listitembackgroundselected.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\listitemselector.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\menu\actionbar.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\xml\searchable.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\arc_de_triomphe.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\before_mobile_phones.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\big_ben_1.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\big_ben_2.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\buckingham_guards.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\champ_elysees.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\downtown_edinburgh.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\edinburgh_castle_1.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\edinburgh_castle_2.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\edinburgh_from_on_high.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\edinburgh_station.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\eurostar.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\heres_lookin_at_ya.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\inside_notre_dame.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\la_tour_eiffel.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\london_eye.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\louvre_1.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\louvre_2.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\medieval_siege_gun.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\modest_accomodations.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\museum_and_castle.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\notre_dame.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\old_meets_new.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\one_o_clock_gun.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\pompidou_centre.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\portcullis_gate.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\royal_mile.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\rue_cler.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\scott_monument.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\seine_barge.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\seine_river.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\to_notre_dame.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\tower_of_london.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\tower_visitors.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\versailles_fountains.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\versailles_gates.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\victoria_albert.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\view_from_holyrood_park.jpg
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\R.cs.flag
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\uploadflags.txt
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\bin\Debug\XamarinCodeSharing.Core.dll.mdb
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\XamarinCookbook.dll.mdb
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\bin\Debug\XamarinCookbook.dll.mdb

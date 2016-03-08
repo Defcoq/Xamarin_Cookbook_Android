@@ -1,0 +1,28 @@
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\XamarinCodeSharing.Core\bin\Debug\XamarinCodeSharing.Core.dll.config
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\XamarinCodeSharing.Core\bin\Debug\XamarinCodeSharing.Core.dll
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\XamarinCodeSharing.Core\bin\Debug\XamarinCodeSharing.Core.pdb
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\XamarinCodeSharing.Core\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\XamarinCodeSharing.Core\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\XamarinCodeSharing.Core\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\XamarinCodeSharing.Core\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\XamarinCodeSharing.Core\obj\Debug\XamarinCodeSharing.Core.csproj.App.config
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\XamarinCodeSharing.Core\obj\Debug\XamarinCodeSharing.Core.csprojResolveAssemblyReference.cache
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\XamarinCodeSharing.Core\obj\Debug\XamarinCodeSharing.Core.dll
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\XamarinCodeSharing.Core\obj\Debug\XamarinCodeSharing.Core.pdb
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\XamarinCodeSharing.Core\obj\Debug\XamarinCodeSharing.Core.dll.mdb
+C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\XamarinCodeSharing.Core\bin\Debug\XamarinCodeSharing.Core.dll.mdb
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\XamarinCodeSharing.Core\bin\Debug\XamarinCodeSharing.Core.dll.config
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\XamarinCodeSharing.Core\bin\Debug\XamarinCodeSharing.Core.dll
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\XamarinCodeSharing.Core\bin\Debug\XamarinCodeSharing.Core.pdb
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\XamarinCodeSharing.Core\bin\Debug\System.Net.Http.Extensions.dll
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\XamarinCodeSharing.Core\bin\Debug\System.Net.Http.Primitives.dll
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\XamarinCodeSharing.Core\bin\Debug\System.Net.Http.Extensions.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\XamarinCodeSharing.Core\bin\Debug\System.Net.Http.Primitives.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\XamarinCodeSharing.Core\obj\Debug\XamarinCodeSharing.Core.csproj.App.config
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\XamarinCodeSharing.Core\obj\Debug\XamarinCodeSharing.Core.csprojResolveAssemblyReference.cache
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\XamarinCodeSharing.Core\obj\Debug\XamarinCodeSharing.Core.dll
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\XamarinCodeSharing.Core\obj\Debug\XamarinCodeSharing.Core.pdb
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\XamarinCodeSharing.Core\obj\Debug\XamarinCodeSharing.Core.dll.mdb
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\XamarinCodeSharing.Core\bin\Debug\XamarinCodeSharing.Core.dll.mdb
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\XamarinCodeSharing.Core\obj\Debug\XamarinCodeSharing.Core.dll.mdb
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\XamarinCodeSharing.Core\bin\Debug\XamarinCodeSharing.Core.dll.mdb

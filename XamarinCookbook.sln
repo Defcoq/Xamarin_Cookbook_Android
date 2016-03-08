@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinCookbook", "XamarinCookbook.csproj", "{BE131D1C-64C8-4A2B-8AE0-CD1AE5092420}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinCodeSharing.Core", "XamarinCodeSharing.Core\XamarinCodeSharing.Core.csproj", "{119C4B89-801E-409F-97E9-079DF41C84D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE131D1C-64C8-4A2B-8AE0-CD1AE5092420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE131D1C-64C8-4A2B-8AE0-CD1AE5092420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE131D1C-64C8-4A2B-8AE0-CD1AE5092420}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BE131D1C-64C8-4A2B-8AE0-CD1AE5092420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE131D1C-64C8-4A2B-8AE0-CD1AE5092420}.Release|Any CPU.Build.0 = Release|Any CPU
+		{119C4B89-801E-409F-97E9-079DF41C84D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{119C4B89-801E-409F-97E9-079DF41C84D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{119C4B89-801E-409F-97E9-079DF41C84D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{119C4B89-801E-409F-97E9-079DF41C84D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = XamarinCookbook.csproj
+	EndGlobalSection
+EndGlobal

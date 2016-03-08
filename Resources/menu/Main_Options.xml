@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:id="@+id/action_refresh"
+        android:title="@string/action_refresh" />
+  <item android:id="@+id/action_settings"
+        android:title="@string/action_settings" />
+  <item android:id="@+id/action_about"
+        android:title="@string/action_about"/>
+  <item android:id="@+id/action_feed"
+       android:title="@string/action_feed"/>
+  <item android:id="@+id/action_fragment"
+       android:title="@string/action_fragment"/>
+  <item android:id="@+id/action_preference"
+       android:title="@string/action_preference"/>
+  <item android:id="@+id/action_manageFile"
+       android:title="@string/action_manageFile"/>
+  <item android:id="@+id/action_presenteData"
+     android:title="@string/action_presenteData"/>
+  <item android:id="@+id/action_comunication"
+    android:title="@string/action_comunication"/>
+</menu>

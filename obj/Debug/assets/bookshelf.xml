@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<bookshelf>
+	<book title="C# 5.0 in a Nutshell" edition="5" isbn="978-1449320102" year="2012" type="paperback">
+		<authors>
+			<author firstname="Joseph" lastname="Albahari"/>
+			<author firstname="Ben" lastname="Albahari"/>
+		</authors>
+	</book>
+	<book title="Programming C# 5.0" edition="1" isbn="978-1449320416" year="2012" type="paperback">
+		<authors>
+			<author firstname="Ian" lastname="Griffiths"/>
+		</authors>
+	</book>
+	<book title="C# Design Pattern Essentials" isbn="978-0956575869" year="2012" type="paperback">
+		<authors>
+			<author firstname="Tony" lastname="Bevis"/>
+		</authors>
+	</book>
+	<book title="C# in Depth" isbn="978-1617291340" edition="3" year="2013" type="paperback">
+		<authors>
+			<author firstname="Jon" lastname="Skeet"/>
+		</authors>
+	</book>
+	<book title="Head First C#" edition="3" isbn="978-1449343507" year="2013" type="paperback">
+		<authors>
+			<author firstname="Jennifer" lastname="Greene"/>
+			<author firstname="Andrew" lastname="Stellman"/>
+		</authors>
+	</book>
+	<book title="Real-World Functional Programming" isbn="978-1933988924" edition="1" year="2010" type="paperback">
+		<authors>
+			<author firstname="Jon" lastname="Skeet"/>
+			<author firstname="Tomas" lastname="Petricek"/>
+		</authors>
+	</book>
+</bookshelf>

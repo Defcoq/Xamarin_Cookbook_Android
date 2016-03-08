@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <Button
+            android:text="@string/storageState"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/storageState" />
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinner" />
+        <TextView
+            android:text=" "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/basePathLabel"
+            style="@android:style/TextAppearance.Medium" />
+        <Button
+            android:text="@string/checkFile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/checkFile" />
+        <Button
+            android:text="@string/readFile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/readFile" />
+        <Button
+            android:text="@string/writeFile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/writeFile" />
+        <Button
+            android:text="@string/listFiles"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/listFiles" />
+        <Button
+            android:text="@string/readAsset"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/readAsset" />
+        <Button
+            android:text="@string/readRaw"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/readRaw" />
+        <Button
+            android:text="@string/readString"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/readString" />
+        <TextView
+            android:text=" "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/outputLabel"
+            style="@android:style/TextAppearance.Medium" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/outputSQLiteNetLabel"
+            style="@android:style/TextAppearance.Medium" />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:id="@+id/tabLabel"
+                style="@android:style/TextAppearance.Small"
+                android:typeface="monospace"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+    </LinearLayout>
+</ScrollView>
