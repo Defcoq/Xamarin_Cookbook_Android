@@ -39,6 +39,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Mono.Data.Sqlite" />
+    <Reference Include="Newtonsoft.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.8.0.2\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="SQLite.Net, Version=3.1.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>packages\SQLite.Net.Core-PCL.3.1.1\lib\portable-win8+net45+wp8+wpa81+MonoAndroid1+MonoTouch1\SQLite.Net.dll</HintPath>
       <Private>True</Private>
@@ -53,6 +57,7 @@
       <HintPath>packages\Mono.Data.Sqlite.Portable.1.0.3.5\lib\MonoAndroid\System.Data.Portable.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="System.Net.Http" />
     <Reference Include="System.Transactions" />
     <Reference Include="System.Transactions.Portable, Version=4.0.0.0, Culture=neutral, PublicKeyToken=59e704a76bc4613a, processorArchitecture=MSIL">
       <HintPath>packages\Mono.Data.Sqlite.Portable.1.0.3.5\lib\MonoAndroid\System.Transactions.Portable.dll</HintPath>
@@ -62,6 +67,7 @@
     <Reference Include="System.Core" />
     <Reference Include="Mono.Android" />
     <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Xml.Serialization" />
     <Reference Include="Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=71f3e3261ac778b5, processorArchitecture=MSIL">
       <HintPath>packages\Crosslight.Xamarin.Android.Support.v4.23.1.1\lib\MonoAndroid10\Xamarin.Android.Support.v4.dll</HintPath>
       <Private>True</Private>
@@ -78,12 +84,38 @@
       <HintPath>packages\Crosslight.Xamarin.Android.Support.v7.RecyclerView.23.1.1\lib\MonoAndroid10\Xamarin.Android.Support.v7.RecyclerView.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="Xamarin.GooglePlayServices.Base, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Xamarin.GooglePlayServices.Base.29.0.0.1\lib\MonoAndroid41\Xamarin.GooglePlayServices.Base.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xamarin.GooglePlayServices.Basement, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Xamarin.GooglePlayServices.Basement.29.0.0.1\lib\MonoAndroid41\Xamarin.GooglePlayServices.Basement.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xamarin.GooglePlayServices.Gcm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=71f3e3261ac778b5, processorArchitecture=MSIL">
+      <HintPath>packages\Crosslight.Xamarin.GooglePlayServices.GCM.27.0.0.1\lib\MonoAndroid10\Xamarin.GooglePlayServices.Gcm.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xamarin.GooglePlayServices.Measurement, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Xamarin.GooglePlayServices.Measurement.29.0.0.1\lib\MonoAndroid41\Xamarin.GooglePlayServices.Measurement.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AlertDialogActivity.cs" />
+    <Compile Include="AlertFragment.cs" />
+    <Compile Include="AlertFragment2.cs" />
+    <Compile Include="AlertFragmentActivity.cs" />
+    <Compile Include="CazzoActivity.cs" />
+    <Compile Include="CazzoFragment1.cs" />
+    <Compile Include="CheckNetworkStatusActivity.cs" />
     <Compile Include="ComunicationActivity.cs" />
     <Compile Include="ContentFragment.cs" />
     <Compile Include="CustomListViewItemActivity.cs" />
+    <Compile Include="CustomNotificationActivity.cs" />
     <Compile Include="FeedActivityJP.cs" />
+    <Compile Include="HomeFragment.cs" />
+    <Compile Include="InstanceIdService.cs" />
     <Compile Include="JPFragmentActivity.cs" />
     <Compile Include="ListViewActivity.cs" />
     <Compile Include="ListViewBaseAdapterActivity.cs" />
@@ -92,18 +124,32 @@
     <Compile Include="ListViewLayoutEx1Activity.cs" />
     <Compile Include="ListViewSearchActivity.cs" />
     <Compile Include="ListViewSimpleAdapterActivity.cs" />
+    <Compile Include="LongTaskNotificationActivity.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="ManageFileActivity.cs" />
     <Compile Include="MenuFragment.cs" />
     <Compile Include="MyTable.cs" />
+    <Compile Include="NotificationActivity.cs" />
+    <Compile Include="NotificationActivity2.cs" />
+    <Compile Include="NotificationReceiver.cs" />
+    <Compile Include="NotificationService.cs" />
+    <Compile Include="OngoingNotificationActivity.cs" />
     <Compile Include="PeopleAdapter.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="PhotoAlbum.cs" />
+    <Compile Include="Post.cs" />
     <Compile Include="PreferenceActivity.cs" />
+    <Compile Include="PushNotificationActivity.cs" />
     <Compile Include="RecycleViewerActivity.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RestHttpClientActivity.cs" />
+    <Compile Include="Rss.cs" />
     <Compile Include="SearchActivity.cs" />
+    <Compile Include="SelectionInAlertActivity.cs" />
+    <Compile Include="TestadicazzoFragment.cs" />
+    <Compile Include="ToastActivity.cs" />
+    <Compile Include="UserNotificationActivity.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Properties\AndroidManifest.xml" />
@@ -156,14 +202,54 @@
       <SubType>AndroidResource</SubType>
     </AndroidResource>
     <AndroidResource Include="Resources\layout\PhotoCardView.axml" />
+    <AndroidResource Include="Resources\layout\RestHttpClientLayout.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\CheckNetworkStatusLayout.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\UserNotificationLayout.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\ToastLayout.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\AlertDialogLayout.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\AlertFragmentLayout.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\DialogLayout.axml" />
+    <AndroidResource Include="Resources\layout\HomeLayout.axml" />
+    <AndroidResource Include="Resources\layout\SelectionInAlertLayout.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\LongTaskNotificationLayout.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\OngoingNotificationLayout.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\CustomNotificationViewLayout.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\NotificationLayout.axml" />
+    <AndroidResource Include="Resources\layout\PushNotificationLayout.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\Icon.png" />
-    <AndroidResource Include="Resources\menu\Main_Options.xml" />
+    <AndroidResource Include="Resources\menu\Main_Options.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
     <AndroidResource Include="Resources\drawable-hdpi\ic_action_refresh.png" />
     <AndroidResource Include="Resources\drawable-mdpi\ic_action_refresh.png" />
     <AndroidResource Include="Resources\drawable-xhdpi\ic_action_refresh.png" />
-    <AndroidResource Include="Resources\values\strings.xml" />
+    <AndroidResource Include="Resources\values\strings.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
     <AndroidResource Include="Resources\layout\Main.axml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />

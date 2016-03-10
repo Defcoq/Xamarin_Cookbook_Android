@@ -5,6 +5,10 @@
     <AdditionalAndroidResourcePath>C:\Users\jp.deffofotso\AppData\Local\Xamarin\Android.Support.v7.AppCompat\23.1.1.0\embedded</AdditionalAndroidResourcePath>
     <AdditionalAndroidResourcePath>C:\Users\jp.deffofotso\AppData\Local\Xamarin\Android.Support.v7.CardView\23.1.1.0\embedded</AdditionalAndroidResourcePath>
     <AdditionalAndroidResourcePath>C:\Users\jp.deffofotso\AppData\Local\Xamarin\Android.Support.v7.RecyclerView\23.1.1.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\jp.deffofotso\AppData\Local\Xamarin\GooglePlayServices.Base\8.4.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\jp.deffofotso\AppData\Local\Xamarin\GooglePlayServices.Basement\8.4.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\jp.deffofotso\AppData\Local\Xamarin\GooglePlayServices.Gcm\8.1.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\jp.deffofotso\AppData\Local\Xamarin\GooglePlayServices.Measurement\8.4.0\embedded</AdditionalAndroidResourcePath>
   </AdditionalAndroidResourcePaths>
   <AdditionalJavaLibraryReferences>
     <AdditionalJavaLibraryReference>C:\Users\jp.deffofotso\AppData\Local\Xamarin\Android.Support.v4\23.1.1.0\embedded\classes.jar</AdditionalJavaLibraryReference>
@@ -12,6 +16,10 @@
     <AdditionalJavaLibraryReference>C:\Users\jp.deffofotso\AppData\Local\Xamarin\Android.Support.v7.AppCompat\23.1.1.0\embedded\classes.jar</AdditionalJavaLibraryReference>
     <AdditionalJavaLibraryReference>C:\Users\jp.deffofotso\AppData\Local\Xamarin\Android.Support.v7.CardView\23.1.1.0\embedded\classes.jar</AdditionalJavaLibraryReference>
     <AdditionalJavaLibraryReference>C:\Users\jp.deffofotso\AppData\Local\Xamarin\Android.Support.v7.RecyclerView\23.1.1.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\jp.deffofotso\AppData\Local\Xamarin\GooglePlayServices.Base\8.4.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\jp.deffofotso\AppData\Local\Xamarin\GooglePlayServices.Basement\8.4.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\jp.deffofotso\AppData\Local\Xamarin\GooglePlayServices.Gcm\8.1.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\jp.deffofotso\AppData\Local\Xamarin\GooglePlayServices.Measurement\8.4.0\embedded\classes.jar</AdditionalJavaLibraryReference>
   </AdditionalJavaLibraryReferences>
   <AdditionalNativeLibraryReferences />
 </Paths>

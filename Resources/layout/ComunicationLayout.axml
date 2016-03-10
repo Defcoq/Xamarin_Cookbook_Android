@@ -7,39 +7,14 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
         <Button
-            android:text="@string/listviewxml"
+            android:text="@string/RestHttpClient"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/listviewxml" />
+            android:id="@+id/RestHttpClient" />
         <Button
-            android:text="@string/listviewFromActivity"
+            android:text="@string/checkNetworkStatus"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/listviewFromActivity" />
-        <Button
-            android:text="@string/listViewSimpleAdapter"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/listViewSimpleAdapter" />
-        <Button
-            android:text="@string/customListViewItem"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/customListViewItem" />
-        <Button
-            android:text="@string/listViewBaseAdapter"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/listViewBaseAdapter" />
-        <Button
-            android:text="@string/listViewCursorAdapter"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/listViewCursorAdapter" />
-        <Button
-            android:text="@string/listViewSearch"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/listViewSearch" />
+            android:id="@+id/checkNetworkStatus" />
     </LinearLayout>
 </ScrollView>

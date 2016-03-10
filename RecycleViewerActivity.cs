@@ -21,6 +21,7 @@ namespace XamarinCookbook
 
         // Layout manager that lays out each card in the RecyclerView:
         RecyclerView.LayoutManager mLayoutManager;
+        
 
         // Adapter that accesses the data set (a photo album):
         PhotoAlbumAdapter mAdapter;
@@ -36,7 +37,7 @@ namespace XamarinCookbook
             mPhotoAlbum = new PhotoAlbum();
 
             // Set our view from the "main" layout resource:
-            SetContentView(Resource.Layout.Main);
+            SetContentView(Resource.Layout.RecycleViewerLayout);
 
             // Get our RecyclerView layout:
             mRecyclerView = FindViewById<RecyclerView>(Resource.Id.recyclerView);

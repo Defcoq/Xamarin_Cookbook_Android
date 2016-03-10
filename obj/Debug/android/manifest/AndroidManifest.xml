@@ -5,10 +5,28 @@
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.READ_CONTACTS" />
   <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.BLUETOOTH" />
+  <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+  <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+  <uses-permission android:name="android.permission.WAKE_LOCK" />
+  <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+  <uses-permission android:name="com.xamarincookbook.chapter1.recipe8.permission.C2D_MESSAGE" />
   <application android:label="XamarinCookbook" android:name="mono.android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+    <activity android:label="AlertDialogActivity" android:parentActivityName="md5fd7133f87d13719555bff5d076de0c20.UserNotificationActivity" android:name="md5fd7133f87d13719555bff5d076de0c20.AlertDialogActivity" />
+    <activity android:label="AlertFragmentActivity" android:parentActivityName="md5fd7133f87d13719555bff5d076de0c20.UserNotificationActivity" android:theme="@style/Theme.AppCompat" android:name="md5fd7133f87d13719555bff5d076de0c20.AlertFragmentActivity" />
+    <activity android:label="CazzoActivity" android:name="md5fd7133f87d13719555bff5d076de0c20.CazzoActivity" />
+    <activity android:label="CheckNetworkStatusActivity" android:parentActivityName="md5fd7133f87d13719555bff5d076de0c20.ComunicationActivity" android:name="md5fd7133f87d13719555bff5d076de0c20.CheckNetworkStatusActivity" />
     <activity android:label="ComunicationActivity" android:parentActivityName="md5fd7133f87d13719555bff5d076de0c20.MainActivity" android:name="md5fd7133f87d13719555bff5d076de0c20.ComunicationActivity" />
     <activity android:label="CustomListViewItemActivity" android:parentActivityName="md5fd7133f87d13719555bff5d076de0c20.ListViewActivity" android:name="md5fd7133f87d13719555bff5d076de0c20.CustomListViewItemActivity" />
+    <activity android:label="CustomNotificationActivity" android:parentActivityName="md5fd7133f87d13719555bff5d076de0c20.UserNotificationActivity" android:name="md5fd7133f87d13719555bff5d076de0c20.CustomNotificationActivity" />
     <activity android:icon="@drawable/icon" android:label="Feed" android:parentActivityName="md5fd7133f87d13719555bff5d076de0c20.MainActivity" android:name="md5fd7133f87d13719555bff5d076de0c20.FeedActivity" />
+    <service android:name="md5fd7133f87d13719555bff5d076de0c20.InstanceIdService">
+      <intent-filter>
+        <action android:name="com.google.android.gms.iid.InstanceID" />
+      </intent-filter>
+    </service>
     <activity android:label="JPFragmentActivity" android:theme="@style/Theme.AppCompat" android:name="md5fd7133f87d13719555bff5d076de0c20.JPFragmentActivity" />
     <activity android:label="ListViewActivity" android:parentActivityName="md5fd7133f87d13719555bff5d076de0c20.MainActivity" android:name="md5fd7133f87d13719555bff5d076de0c20.ListViewActivity" />
     <activity android:label="ListViewBaseAdapterActivity" android:parentActivityName="md5fd7133f87d13719555bff5d076de0c20.ListViewActivity" android:name="md5fd7133f87d13719555bff5d076de0c20.ListViewBaseAdapterActivity" />
@@ -19,10 +37,30 @@
       <meta-data android:name="android.app.default_searchable" android:value="com.xamarincookbook.SearchActivity" />
     </activity>
     <activity android:label="ListViewSimpleAdapterActivity" android:parentActivityName="md5fd7133f87d13719555bff5d076de0c20.ListViewActivity" android:name="md5fd7133f87d13719555bff5d076de0c20.ListViewSimpleAdapterActivity" />
+    <activity android:label="LongTaskNotificationActivity" android:parentActivityName="md5fd7133f87d13719555bff5d076de0c20.UserNotificationActivity" android:name="com.xamarincookbook.LongTaskNotificationActivity" />
     <activity android:label="XamarinCookbook" android:theme="@style/Theme.AppCompat" android:name="md5fd7133f87d13719555bff5d076de0c20.MainActivity" />
     <activity android:label="ManageFileActivity" android:parentActivityName="md5fd7133f87d13719555bff5d076de0c20.MainActivity" android:theme="@style/Theme.AppCompat" android:name="md5fd7133f87d13719555bff5d076de0c20.ManageFileActivity" />
+    <activity android:icon="@drawable/icon" android:label="XamarinCookbook Notification" android:parentActivityName="com.xamarincookbook.LongTaskNotificationActivity" android:name="md5fd7133f87d13719555bff5d076de0c20.NotificationActivity">
+      <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.xamarincookbook.LongTaskNotificationActivity" />
+    </activity>
+    <activity android:icon="@drawable/icon" android:label="XamarinCookbook Notification" android:name="md5fd7133f87d13719555bff5d076de0c20.NotificationActivity2" />
+    <receiver android:exported="true" android:permission="com.google.android.c2dm.permission.SEND" android:name="md5fd7133f87d13719555bff5d076de0c20.NotificationReceiver">
+      <intent-filter>
+        <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+        <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+        <category android:name="com.xamarincookbook.chapter1.recipe8" />
+      </intent-filter>
+    </receiver>
+    <service android:name="md5fd7133f87d13719555bff5d076de0c20.NotificationService">
+      <intent-filter>
+        <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+      </intent-filter>
+    </service>
+    <activity android:label="OngoingNotificationActivity" android:parentActivityName="md5fd7133f87d13719555bff5d076de0c20.UserNotificationActivity" android:name="md5fd7133f87d13719555bff5d076de0c20.OngoingNotificationActivity" />
     <activity android:label="PreferenceActivity" android:parentActivityName="md5fd7133f87d13719555bff5d076de0c20.MainActivity" android:name="md5fd7133f87d13719555bff5d076de0c20.PreferenceActivity" />
+    <activity android:label="PushNotificationActivity" android:parentActivityName="md5fd7133f87d13719555bff5d076de0c20.UserNotificationActivity" android:name="md5fd7133f87d13719555bff5d076de0c20.PushNotificationActivity" />
     <activity android:label="RecycleViewerActivity" android:theme="@android:style/Theme.Material.Light.DarkActionBar" android:name="md5fd7133f87d13719555bff5d076de0c20.RecycleViewerActivity" />
+    <activity android:label="RestHttpClientActivity" android:parentActivityName="md5fd7133f87d13719555bff5d076de0c20.ComunicationActivity" android:name="md5fd7133f87d13719555bff5d076de0c20.RestHttpClientActivity" />
     <activity android:label="SearchActivity" android:launchMode="singleTop" android:theme="@style/Theme.AppCompat" android:name="com.xamarincookbook.SearchActivity">
       <meta-data android:name="android.app.searchable" android:resource="@xml/searchable" />
       <intent-filter>
@@ -33,6 +71,16 @@
         <category android:name="android.intent.category.DEFAULT" />
       </intent-filter>
     </activity>
+    <activity android:label="SelectionInAlertActivity" android:parentActivityName="md5fd7133f87d13719555bff5d076de0c20.UserNotificationActivity" android:name="md5fd7133f87d13719555bff5d076de0c20.SelectionInAlertActivity" />
+    <activity android:label="ToastActivity" android:name="md5fd7133f87d13719555bff5d076de0c20.ToastActivity" />
+    <activity android:label="UserNotificationActivity" android:parentActivityName="md5fd7133f87d13719555bff5d076de0c20.MainActivity" android:name="md5fd7133f87d13719555bff5d076de0c20.UserNotificationActivity" />
+    <provider android:authorities="com.xamarincookbook.chapter1.recipe8.google_measurement_service" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementContentProvider" />
+    <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementService" />
+    <receiver android:enabled="true" android:name="com.google.android.gms.measurement.AppMeasurementReceiver">
+      <intent-filter>
+        <action android:name="com.google.android.gms.measurement.UPLOAD" />
+      </intent-filter>
+    </receiver>
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.xamarincookbook.chapter1.recipe8.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">

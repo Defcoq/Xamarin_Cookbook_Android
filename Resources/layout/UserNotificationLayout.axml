@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <Button
+            android:text="@string/toast"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/toast" />
+        <Button
+            android:text="@string/alert"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/alert" />
+        <Button
+            android:text="@string/alertFragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/alertFragment" />
+        <Button
+            android:text="@string/selectionAlert"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/selectionAlert" />
+        <Button
+            android:text="@string/longtaskNotification"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/longtaskNotification" />
+        <Button
+            android:text="@string/OngoingNotification"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/OngoingNotification" />
+        <Button
+            android:text="@string/CustomViewNotification"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/CustomViewNotification" />
+        <Button
+            android:text="@string/PushNotification"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/PushNotification" />
+    </LinearLayout>
+</ScrollView>

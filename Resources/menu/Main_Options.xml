@@ -18,4 +18,7 @@
      android:title="@string/action_presenteData"/>
   <item android:id="@+id/action_comunication"
     android:title="@string/action_comunication"/>
+  <item android:id="@+id/action_userNotification"
+  android:title="@string/action_userNotification"/>
+  <item android:id="@string/action_intereactWithOtherApp" />
 </menu>

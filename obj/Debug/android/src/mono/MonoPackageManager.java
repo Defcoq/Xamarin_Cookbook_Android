@@ -80,6 +80,7 @@ public class MonoPackageManager {
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		"XamarinCookbook.dll",
+		"Newtonsoft.Json.dll",
 		"SQLite.Net.dll",
 		"SQLite.Net.Platform.XamarinAndroid.dll",
 		"System.Data.Portable.dll",
@@ -88,6 +89,10 @@ class MonoPackageManager_Resources {
 		"Xamarin.Android.Support.v7.AppCompat.dll",
 		"Xamarin.Android.Support.v7.CardView.dll",
 		"Xamarin.Android.Support.v7.RecyclerView.dll",
+		"Xamarin.GooglePlayServices.Base.dll",
+		"Xamarin.GooglePlayServices.Basement.dll",
+		"Xamarin.GooglePlayServices.Gcm.dll",
+		"Xamarin.GooglePlayServices.Measurement.dll",
 		"XamarinCodeSharing.Core.dll",
 		"System.Collections.Concurrent.dll",
 		"System.Collections.dll",

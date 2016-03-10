@@ -26,3 +26,9 @@ C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\XamarinCodeShari
 C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\XamarinCodeSharing.Core\bin\Debug\XamarinCodeSharing.Core.dll.mdb
 C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\XamarinCodeSharing.Core\obj\Debug\XamarinCodeSharing.Core.dll.mdb
 C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\XamarinCodeSharing.Core\bin\Debug\XamarinCodeSharing.Core.dll.mdb
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\XamarinCodeSharing.Core\obj\Debug\XamarinCodeSharing.Core.dll.mdb
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\XamarinCodeSharing.Core\bin\Debug\XamarinCodeSharing.Core.dll.mdb
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\XamarinCodeSharing.Core\obj\Debug\XamarinCodeSharing.Core.dll.mdb
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\XamarinCodeSharing.Core\bin\Debug\XamarinCodeSharing.Core.dll.mdb
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\XamarinCodeSharing.Core\obj\Debug\XamarinCodeSharing.Core.dll.mdb
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\XamarinCodeSharing.Core\bin\Debug\XamarinCodeSharing.Core.dll.mdb

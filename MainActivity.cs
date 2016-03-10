@@ -117,6 +117,10 @@ namespace XamarinCookbook
                 case Resource.Id.action_comunication:
                     StartActivity(typeof(ComunicationActivity));
                     return true;
+
+                case Resource.Id.action_userNotification:
+                    StartActivity(typeof(UserNotificationActivity));
+                    return true;
                 default:
                     return base.OnOptionsItemSelected(item);
             }

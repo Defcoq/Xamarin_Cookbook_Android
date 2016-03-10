@@ -21,6 +21,22 @@ namespace XamarinCookbook
 
             // Create your application here
             SetContentView(Resource.Layout.ComunicationLayout);
+
+            Button buttonRestHttpClient = FindViewById<Button>(Resource.Id.RestHttpClient);
+            buttonRestHttpClient.Click += ButtonRestHttpClient_Click;
+
+            Button buttonCheckNetworkStatusActivity = FindViewById<Button>(Resource.Id.checkNetworkStatus);
+            buttonCheckNetworkStatusActivity.Click += ButtonCheckNetworkStatusActivity_Click;
+        }
+
+        private void ButtonCheckNetworkStatusActivity_Click(object sender, EventArgs e)
+        {
+            StartActivity(typeof(CheckNetworkStatusActivity));
+        }
+
+        private void ButtonRestHttpClient_Click(object sender, EventArgs e)
+        {
+            StartActivity(typeof(RestHttpClientActivity));
         }
     }
 }
