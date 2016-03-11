@@ -20,5 +20,8 @@
     android:title="@string/action_comunication"/>
   <item android:id="@+id/action_userNotification"
   android:title="@string/action_userNotification"/>
-  <item android:id="@string/action_intereactWithOtherApp" />
+  <item android:id="@+id/action_intereactWithOtherApp"
+   android:title="@string/action_intereactWithOtherApp"/>
+  <item android:id="@+id/action_multimedia"
+  android:title="@string/action_multimedia"/>
 </menu>

@@ -73,6 +73,26 @@
   <string name="CustomViewNotification">Custom View Notification</string>
 <string name="sendMessage">Send Message</string>
 <string name="PushNotification">Push Notification</string>
-<string name="action_intereactWithOtherApp">Manage File</string>
+<string name="action_intereactWithOtherApp">intereact with other app</string>
+<string name="startActivity">Start Activity</string>
+	<string name="startService">Start Service</string>
+	<string name="startBroadcast">Start Broadcast</string>
+<string name="StartAppComponent">Start app component</string>
+<string name="intentWithData">Intent with Data Uri</string>
+	<string name="intentWithType">Intent with MIME Type</string>
+	<string name="intentWithDataAndType">Intent with Data and Type</string>
+	<string name="checkIntent">Check Intent Activities</string>
+	<string name="startChooser">Start Activity Chooser</string>
+<string name="LaunchingOtherApp">Launching Other App</string>
+<string name="launchResultActivity">Start Result Activity</string>
+<string name="obtainDataFromActivity">Start Result Activity</string>
+<string name="setAlarm">Set Alarm for 5 Seconds</string>
+<string name="ScheduleTask">Schedule a task</string>
+<string name="takePhoto">Take a Photo</string>
+	<string name="takeVideo">Record a Video</string>
+<string name="UsingCamera">Using Camera</string>
+<string name="CreatingCameraApp">Creating Camera App</string>
+<string name="action_multimedia">Multimedia</string>
+<string name="recordVideo">Record Video</string>
 </resources>
         

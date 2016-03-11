@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <Button
+            android:text="@string/StartAppComponent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/StartAppComponent" />
+        <Button
+            android:text="@string/LaunchingOtherApp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/LaunchingOtherApp" />
+        <Button
+            android:text="@string/obtainDataFromActivity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/obtainDataFromActivity" />
+        <Button
+            android:text="@string/ScheduleTask"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ScheduleTask" />
+    </LinearLayout>
+</ScrollView>

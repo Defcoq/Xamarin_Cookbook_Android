@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <Button
+        android:text="@string/intentWithData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/intentWithData" />
+    <Button
+        android:text="@string/intentWithType"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/intentWithType" />
+    <Button
+        android:text="@string/intentWithDataAndType"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/intentWithDataAndType" />
+    <Button
+        android:text="@string/checkIntent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/checkIntent" />
+    <Button
+        android:text="@string/startChooser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/startChooser" />
+</LinearLayout>

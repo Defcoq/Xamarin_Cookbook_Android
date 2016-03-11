@@ -121,6 +121,13 @@ namespace XamarinCookbook
                 case Resource.Id.action_userNotification:
                     StartActivity(typeof(UserNotificationActivity));
                     return true;
+
+                case Resource.Id.action_intereactWithOtherApp:
+                    StartActivity(typeof(IntereactWithOtherAppActivity));
+                    return true;
+                case Resource.Id.action_multimedia:
+                    StartActivity(typeof(MultimediaActivity));
+                    return true;
                 default:
                     return base.OnOptionsItemSelected(item);
             }

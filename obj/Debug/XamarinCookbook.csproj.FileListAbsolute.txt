@@ -25,9 +25,6 @@ C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Andr
 C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\bin\Debug\XamarinCodeSharing.Core.dll.mdb
 C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\obj\Debug\XamarinCookbook.dll.mdb
 C:\Users\jp.deffofotso\Documents\Book\Mobile\Xamarin Mobile Development for Android Cookbook\Chapter 01\Recipe 08\XamarinCookbook\bin\Debug\XamarinCookbook.dll.mdb
-C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\XamarinCookbook.csprojResolveAssemblyReference.cache
-C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\monoandroidsplash.png
-C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\values\styles.xml
 C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\bin\Debug\XamarinCookbook.dll
 C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\bin\Debug\XamarinCookbook.pdb
 C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\bin\Debug\com.xamarincookbook.chapter1.recipe8.apk
@@ -48,6 +45,9 @@ C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\bin\Debug\Xamari
 C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\bin\Debug\XamarinCodeSharing.Core.dll
 C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\bin\Debug\XamarinCodeSharing.Core.pdb
 C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\bin\Debug\Newtonsoft.Json.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\XamarinCookbook.csprojResolveAssemblyReference.cache
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\monoandroidsplash.png
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\values\styles.xml
 C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\XamarinCookbook.dll
 C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\XamarinCookbook.pdb
 C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\android\bin\com.xamarincookbook.chapter1.recipe8.apk
@@ -83,6 +83,14 @@ C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\la
 C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\customnotificationviewlayout.xml
 C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\notificationlayout.xml
 C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\pushnotificationlayout.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\intereactwithotherapplayout.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\startingappcomponentlayout.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\launchingotherapplayout.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\obtaindatafromactivitylayout.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\scheduletasklayout.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\multimedialayout.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\usingcameralayout.xml
+C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\layout\createcameraapplayout.xml
 C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable\icon.png
 C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\menu\main_options.xml
 C:\Worksapce\repos\Mobile Miscelleanous\Xamarin\XamarinCookbook\obj\Debug\res\drawable-hdpi\ic_action_refresh.png
